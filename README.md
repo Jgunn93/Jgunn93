@@ -1,9 +1,9 @@
 <h1>Howdy Y'all 👋</h1>
 <p>
-  "My name is Joshua Gunn and I'm an aspiring full stack developer. I'm from Las Vegas, Nevada and currently taking time to improve my skillset toward a career path in   development. " 
+  My name is Joshua Gunn and I'm an aspiring full stack developer. I'm from Las Vegas, Nevada and currently taking time to improve my skillset toward a career path in   development. 
   <a href="https://www.arceusdex.com/">Here</a>
-  " is one of my current projects for my portfolio. You can also find me on " 
-  <a href="https://www.linkedin.com/in/joshua-gunn-34460787/">LinkedIn</a>"."
+   is one of my current projects for my portfolio. You can also find me on 
+  <a href="https://www.linkedin.com/in/joshua-gunn-34460787/">LinkedIn</a>.
 </p>
 <h2>Current interests and Projects</h2>
 <ul>
