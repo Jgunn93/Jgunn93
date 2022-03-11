@@ -9,7 +9,7 @@
 <ul>
   <li>🌱 I’m currently learning HTML, CSS, JS, Python, Node.js, SQL, and DevOps</li>
  </ul>
- <p>As a graduate of the Nucamp Bootcamps for BacK-End Web Development, I am currently working on two domains to attempt to refine my skills learned and adapt what I know about front end development to provide two websites that can showcase my development and design talents. In addition, I am currently working on the PyGame Library to make two projects, a 1:1 replica of a Las Vegas Video Blackjack slot machine, as well as a Fodian platformer with aspirations to understand the library better and enter the next GameJam competition. Once completed it will be hosted and I will provide an Itch.io link here.</p>
+ <p>As a graduate of the Nucamp Bootcamps for BacK-End Web Development, I am currently working on two domains to attempt to refine my skills learned and adapt what I know about front end development to provide two websites that can showcase my development and design talents. In addition, I am currently working on the PyGame Library to make two projects, a 1:1 replica of an IGT Video Blackjack slot machine, as well as a Fodian platformer with aspirations to understand the library better and enter the next GameJam competition. Once completed it will be hosted and I will provide an Itch.io link here.</p>
 
 
 <!---
